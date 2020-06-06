@@ -33,7 +33,7 @@ $ npm install
 # Start server
 $ npm start
 
-# running on port 3333
+# running on port 3000
 ```
 
 Made by Celso Lopes Junior
